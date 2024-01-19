@@ -28,7 +28,7 @@ I'm currently diving deeper into [Current Learning Focus]. Excited to enhance my
 
 ## 📈 GitHub Stats
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide=contribs,prs)](https://github.com/your-username)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=riteshrajas&show_icons=true&hide=contribs,prs)](https://github.com/your-username)
 
 ## 🌟 Featured Projects
 
