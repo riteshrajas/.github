@@ -36,12 +36,12 @@ Here are some projects I'm proud of:
 
 ### [Project Name 1]
 
-[![Project 1](https://img.shields.io/badge/-Check%20it%20out-success?style=for-the-badge)](https://github.com/your-username/project-1)
+[![Project 1](https://img.shields.io/badge/-Check%20it%20out-success?style=for-the-badge)](https://github.com/riteshrajas/project-1)
 Description of the project...
 
 ### [Project Name 2]
 
-[![Project 2](https://img.shields.io/badge/-Check%20it%20out-blue?style=for-the-badge)](https://github.com/your-username/project-2)
+[![Project 2](https://img.shields.io/badge/-Check%20it%20out-blue?style=for-the-badge)](https://github.com/riteshrajas/project-2)
 Description of the project...
 
 ## 🎥 Showcase
