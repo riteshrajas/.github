@@ -1,7 +1,7 @@
 # Welcome to Ritesh Raj's Profile! 👋
 
 Hey there! I'm Ritesh, a passionate Robotics/Enginerrng from Rochester Hills. Welcome to my GitHub profile, where I love to showcase my projects and contribute to the open-source community.
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=theshreyaa" alt="theshreyaa" /> </p>
 ## 🚀 About Me
 - 🎓 I'm currently studying at Rochester High School.
 - 🌐 [My Website](https://pyintel.vercel.app)
